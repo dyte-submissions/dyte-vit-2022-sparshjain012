@@ -18,92 +18,67 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/sparsh-jain-5a90661a8/]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <h3 align="center">Input File</h3>
+   <a href="https://github.com/github_username/repo_name">
+    <img src="images/Capture1.JPG" alt="Logo" width="1000" height="200">
+  </a> 
+  
+  <h3 align="center">Output_Task-1</h3>
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Capture.JPG" alt="Logo" width="800" height="600">
+  </a>
+   <h3 align="center">Output_Task-1_Table Forrmat</h3>
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/Capture3.JPG" alt="Logo" width="800" height="600">
+  </a>
+   <h3 align="center">Output_Task-2</h3>
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/Capture4.JPG" alt="Logo" width="800" height="600">
   </a>
 
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+<h3 align="center">SDK Tooling Challenge</h3>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
+  <p align="center">
+    Project_Input_Description
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <a>We have to input File name containing the github Links of the projects, in the eg above we have input file: Dyte.csv</a>
+        </li>
+     <li>
+    <a>We have to input the name of the dependency we want to check, in the ag above we give:Axios</a>
+        </li>
+     <li>
+    <a>We have to give the input of the version with which we want to compare to, in the eg above:0.23.0 </a>
+     </li>
+  </p>
+
+<p align="center">
+    Project_Outut_Description
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+    <a>"Version in git" is the Current version that is used in the dependency in the project github link provided in package.json file</a>
+        </li>
+     <li>
+    <a>"Current version" is the version provided as input by the user </a>
+        </li>
+     <li>
+    <a>True/false is the output  after we compare the versions </a>
+     </li>
+  <li>
+    <a>Whenever we get a false , we trigger a shell script to execute a child process which redirects to a browser with compare page </a>
+     </li>
+  </p>
 
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
+* [Node.js](https://nextjs.org/)
 * [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -122,66 +97,30 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dyte-submissions/dyte-vit-2022-sparshjain012.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run the Project
+   ```sh
+   node index.js
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
+4. Give the inputs:
+   ```sh
+   File name:Dyte.csv
+   Dependency Name:Axios(or any other name)
+   Version: 0.23.0
+   ```
+   
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+The whole Code is done by me , but the Node Project template that I have used is forked From github That's why the contributions are shown, but the entire Code for the Project is done by me myself
 
 <!-- LICENSE -->
 ## License
@@ -192,23 +131,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [https://dyte.notion.site/SDK-Tooling-Challenge-bdeecebf2cbf4afab3cb297e3c6a29d7]()
+* [https://www.digitalocean.com/community/tutorials/how-to-read-and-write-csv-files-in-node-js-using-node-csv]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
