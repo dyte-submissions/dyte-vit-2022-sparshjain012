@@ -18,9 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][Sparsh-Jain]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![MIT License][license-shield]][license-url]
+[[Contributors][Sparsh-Jain]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -29,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/Dyte_1.JPG" alt="Logo" width="100" height="100">
+    <img src="images/Dyte_1.JPG" alt="Logo" width="1000" height="1000">
   </a>
 
 <h3 align="center">SDK Tooling Challenge</h3>
@@ -91,13 +89,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
+* [Node.js](https://nextjs.org/)
 * [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -120,18 +113,14 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
