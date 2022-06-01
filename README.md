@@ -35,9 +35,7 @@
   <p align="center">
     Project_Input_Description
     <li>
-      <ul>
     <a>1. We have taken The input of the Input File :Dyte.CSV containing the github Links of the projects</a>
-      </ul>
         </li>
      <li>
       <ul>
@@ -49,7 +47,6 @@
     <a>3. Taken the input of the version with which we want to compare to here 0.23.0 </a>
      </li>
       </ul>
-    <a>Request Output</a>
   </p>
 </div>
 
