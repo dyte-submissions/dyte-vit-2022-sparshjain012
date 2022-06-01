@@ -69,6 +69,9 @@
      <li>
     <a>True/false is the output  after we compare the versions </a>
      </li>
+  <li>
+    <a>Whenever we get a false , we trigger a shell script to execute a child process which redirects to a browser with compare page </a>
+     </li>
   </p>
 
 
