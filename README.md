@@ -31,9 +31,9 @@
     <img src="images/Capture1.JPG" alt="Logo" width="1000" height="200">
   </a> 
   
-  <h3 align="center">Output_Tak-1</h3>
+  <h3 align="center">Output_Task-1</h3>
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/Capture.JPG" alt="Logo" width="1000" height="1000">
+    <img src="images/Capture.JPG" alt="Logo" width="800" height="600">
   </a>
 
 <h3 align="center">SDK Tooling Challenge</h3>
