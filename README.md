@@ -38,18 +38,26 @@
     <a>1. We have taken The input of the Input File :Dyte.CSV containing the github Links of the projects</a>
         </li>
      <li>
-      <ul>
     <a>2. Take the input of The dependency We want to check in this case Axios</a>
-       </ul>
         </li>
      <li>
-      <ul>
     <a>3. Taken the input of the version with which we want to compare to here 0.23.0 </a>
      </li>
-      </ul>
   </p>
 </div>
 
+<p align="center">
+    Project_Outut_Description
+    <li>
+    <a>1. "Version in git" is the Current version that is used in the dependency in the project github link provided in package.json file</a>
+        </li>
+     <li>
+    <a>2. "Current version" is the version provided as input by the user </a>
+        </li>
+     <li>
+    <a>3. True/false is the output  after we compare the versions </a>
+     </li>
+  </p>
 
 
 <!-- TABLE OF CONTENTS -->
