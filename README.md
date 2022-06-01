@@ -34,6 +34,10 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="images/Capture.JPG" alt="Logo" width="800" height="600">
   </a>
+   <h3 align="center">Output_Task-1_Table Forrmat</h3>
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/Capture3.JPG" alt="Logo" width="800" height="600">
+  </a>
 
 <h3 align="center">SDK Tooling Challenge</h3>
 </div>
