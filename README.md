@@ -104,8 +104,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTRIBUTING -->
 ## Contributing
 
-The whole Code is done by me , but the template that i have used is forked From github That's why the contributions are shown, but the entire Code for the Project 
-is done by me myself
+The whole Code is done by me , but the Node Project template that I have used is forked From github That's why the contributions are shown, but the entire Code for the Project is done by me myself
 
 <!-- LICENSE -->
 ## License
@@ -120,9 +119,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [https://dyte.notion.site/SDK-Tooling-Challenge-bdeecebf2cbf4afab3cb297e3c6a29d7]()
+* [https://www.digitalocean.com/community/tutorials/how-to-read-and-write-csv-files-in-node-js-using-node-csv]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
