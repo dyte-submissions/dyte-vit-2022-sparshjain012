@@ -35,14 +35,14 @@
   <p align="center">
     project_description
     <br />
-    <a>We have taken The input of the Input File :Dyte.CSV containing the github Links of the projects</a>
+    <a>1. We have taken The input of the Input File :Dyte.CSV containing the github Links of the projects</a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a>2. Take the input of The dependency We want to check in this case Axios</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a>3. Taken the input of the version with which we want to compare to here 0.23.0 </a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a>Request Output</a>
   </p>
 </div>
 
