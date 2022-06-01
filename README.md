@@ -95,11 +95,17 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
+3. Run the Project
+   ```sh
+   node index.js
+   ```
+4. Give the inputs:
+   ```sh
+   File name:Dyte.csv
+   Dependency Name:Axios(or any other name)
+   Version: 0.23.0
+   ```
+   
 <!-- CONTRIBUTING -->
 ## Contributing
 
