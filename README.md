@@ -49,7 +49,7 @@
     <a>3. Taken the input of the version with which we want to compare to here 0.23.0 </a>
      </li>
   </p>
-
+</div>
 <p align="center">
     Project_Outut_Description
     <li>
