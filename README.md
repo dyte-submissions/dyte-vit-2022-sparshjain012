@@ -35,7 +35,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a>We have taken The input of the Input File :Dyte.CSV containing the github Links of the projects</a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
