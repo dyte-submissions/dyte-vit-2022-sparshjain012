@@ -28,7 +28,7 @@
 <div align="center">
   Input File
    <a href="https://github.com/github_username/repo_name">
-    <img src="images/Capture1.JPG" alt="Logo" width="800" height="800">
+    <img src="images/Capture1.JPG" alt="Logo" width="500" height="500" label="Input File">
   </a> 
   
   Project_Output_Task1
