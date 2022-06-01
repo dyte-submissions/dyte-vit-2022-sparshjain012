@@ -40,26 +40,26 @@
   <p align="center">
     Project_Input_Description
     <li>
-    <a>1. We have taken The input of the Input File :Dyte.CSV containing the github Links of the projects</a>
+    <a>We have to input File name containing the github Links of the projects, in the eg above we have input file: Dyte.csv</a>
         </li>
      <li>
-    <a>2. Take the input of The dependency We want to check in this case Axios</a>
+    <a>We have to input the name of the dependency we want to check, in the ag above we give:Axios</a>
         </li>
      <li>
-    <a>3. Taken the input of the version with which we want to compare to here 0.23.0 </a>
+    <a>We have to give the input of the version with which we want to compare to, in the eg above:0.23.0 </a>
      </li>
   </p>
 
 <p align="center">
     Project_Outut_Description
     <li>
-    <a>1. "Version in git" is the Current version that is used in the dependency in the project github link provided in package.json file</a>
+    <a>"Version in git" is the Current version that is used in the dependency in the project github link provided in package.json file</a>
         </li>
      <li>
-    <a>2. "Current version" is the version provided as input by the user </a>
+    <a>"Current version" is the version provided as input by the user </a>
         </li>
      <li>
-    <a>3. True/false is the output  after we compare the versions </a>
+    <a>True/false is the output  after we compare the versions </a>
      </li>
   </p>
 
@@ -67,7 +67,6 @@
 ### Built With
 
 * [Node.js](https://nextjs.org/)
-* [Vue.js](https://vuejs.org/)
 * [JQuery](https://jquery.com)
 
 
