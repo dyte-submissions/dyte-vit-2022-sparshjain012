@@ -26,6 +26,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  Input File
+   <a href="https://github.com/github_username/repo_name">
+    <img src="images/Capture1.JPG" alt="Logo" width="800" height="800">
+  </a> 
+  
+  Project_Output_Task1
   <a href="https://github.com/github_username/repo_name">
     <img src="images/Capture.JPG" alt="Logo" width="1000" height="1000">
   </a>
