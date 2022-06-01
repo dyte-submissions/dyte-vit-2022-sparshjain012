@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/Dyte1.jpg" alt="Logo" width="80" height="80">
+    <img src="images/Dyte_1.JPG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SDK Tooling Challenge</h3>
